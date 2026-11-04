@@ -4,18 +4,17 @@
 
 | Nombre y Apellido | Especialización | Experiencia o perfil relevante |
 |-------------------|-----------------|--------------------------------|
-| [COMPLETAR] | [Sistemas Embebidos / Diseño y Desarrollo de Productos] | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| Renzo Grilletti | [Sistemas Embebidos / Diseño y Desarrollo de Productos] | [COMPLETAR] |
+| Gabriel Ivan Sosa Capelli | [COMPLETAR] | [COMPLETAR] |
+| Gabriel Eduardo Nuñez | [COMPLETAR] | [COMPLETAR] |
+| Lucia Urrestarazu | [COMPLETAR] | [COMPLETAR] |
+
 
 > Los equipos son de **5 a 6 integrantes**. Los roles dentro del proyecto se definen en la Tarea 2 (`docs/01-ciclo-de-vida/organizacion.md`).
 
-## Equipo Nº
+## Equipo Nº   
 
-**Equipo Nº:** [COMPLETAR]
+**Equipo Nº:** 4
 
 ## Uso de IA generativa
 
@@ -27,7 +26,7 @@
 
 ## Repositorio
 
-**URL del repositorio:** `https://github.com/[usuario]/[nombre-repo]`
+**URL del repositorio:** `https://github.com/nnzgab/plan-proyecto-gp-especializacion_G4`
 
 ---
 
